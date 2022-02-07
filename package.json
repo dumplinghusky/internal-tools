@@ -1,0 +1,11 @@
+{
+  "name": "@chegg-commerce/internal-tools",
+  "version": "5.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'hello world'"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
